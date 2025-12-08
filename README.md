@@ -1,4 +1,4 @@
-# TruthLens – Multi-Agent Misinformation Analysis (Mumbai Hacks 2025)
+# TruthLens – Multi-Agent Misinformation Analysis 
 
 TruthLens is a multi-agent system that analyzes contested or complex claims by:
 
@@ -9,7 +9,7 @@ TruthLens is a multi-agent system that analyzes contested or complex claims by:
 - Exposing a **clean HTTP API** (FastAPI) suitable for web frontends.
 - Running in the **cloud (Google Cloud Run)** for scalable inference.
 
-> This project was built for **Mumbai Hacks 2025** as a practical exploration of agentic architectures for misinformation analysis.
+> This project was built for practical exploration of agentic architectures for misinformation analysis.
 
 ---
 
@@ -394,7 +394,7 @@ This design allows users to see:
 - These are **temporary & local**, optimized for:
   - Simplicity,
   - Debuggability,
-  - Small-scale demos (like Mumbai Hacks 2025).
+  - Small-scale demos.
 - In production, they can be replaced by:
   - Cloud databases (Firestore, Postgres),
   - Object storage (GCS),
@@ -474,7 +474,7 @@ This makes it easier to **write balanced pieces** and **inspect evidence structu
 
 ## Acknowledgements
 
-This project was developed for **Mumbai Hacks 2025** as a prototype of a multi-agent misinformation analysis system.
+This project was developed as a prototype of a multi-agent misinformation analysis system.
 
 Technologies & Services:
 
